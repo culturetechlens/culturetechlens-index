@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "CultureTechLens Index"
+version: edition-2026-10
+date-released: 2026-09-28
+abstract: "A monthly, data-driven ranking of Black cultural resonance (the CTL 10), scored on trailing-30-day Wikipedia pageviews, CTL research-corpus evidence depth, and pageview momentum."
+authors:
+  - name: "CultureTechLens NFP"
+repository-code: "https://github.com/culturetechlens/culturetechlens-index"
+license: CC-BY-4.0
+preferred-citation:
+  type: report
+  title: "CultureTechLens Index, Edition 2026-10: Artifacts (CTL-IDX-003)"
+  authors:
+    - name: "CultureTechLens"
+  year: 2026
+  month: 9
+  day: 28
