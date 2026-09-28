@@ -1,0 +1,6 @@
+edition,rank,name,category,in_ctl_kg,score,attention_40,evidence_40,momentum_20,pageviews_30d,pageviews_prior_30d,kg_verified_relationships,kg_projects,kg_verified
+PILOT-2026-09,1,Muddy Waters,Figures (pilot),True,61.0,100.0,27.3,50.4,29992,29756,5,3,True
+PILOT-2026-09,2,Chess Records,Figures (pilot),True,50.4,0.0,100.0,51.9,5858,5641,13,3,True
+PILOT-2026-09,3,Mahalia Jackson,Figures (pilot),True,45.7,67.5,22.7,48.2,17640,18313,3,4,True
+PILOT-2026-09,4,Howlin' Wolf,Figures (pilot),True,36.2,68.1,0.0,44.9,17815,19838,2,3,True
+PILOT-2026-09,5,Willie Dixon,Figures (pilot),True,23.5,21.1,13.6,48.2,8271,8577,5,2,True
