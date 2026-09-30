@@ -2,6 +2,8 @@
 
 **CULTURETECHLENS** · "Culture, Clearly Seen." · Black Cultural Intelligence
 
+> 🌐 **Website:** [culturetechlens.com](https://culturetechlens.com) · 💛 **Donate:** [culturetechlens.com/donate](https://culturetechlens.com/donate/) · ✉️ **Contact:** [culturetechlens.com/contact](https://culturetechlens.com/contact/)
+
 A monthly, data-driven ranking of cultural figures, moments, artifacts, and places — the **CTL 10** — published by CultureTechLens as a citable source for journalists, researchers, and the community.
 
 Rankings describe the data. They do not crown winners.
