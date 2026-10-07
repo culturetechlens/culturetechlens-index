@@ -41,4 +41,4 @@ CultureTechLens, "CultureTechLens Index, Edition 2026-10: Artifacts (CTL-IDX-003
 
 ## License
 
-Content: CC BY 4.0. Code: MIT. See [LICENSE](LICENSE).
+Content: CC BY 4.0 — see [LICENSE](LICENSE). Code: MIT — see [LICENSE-CODE](LICENSE-CODE).
